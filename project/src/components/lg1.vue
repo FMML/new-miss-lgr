@@ -9,13 +9,13 @@
     *{
         margin:0;
         padding:0;
+        background-color:pink;
     }
     div{
         float:right;
         width:100px;
         height:100px;
         background-color: aqua;
-        /* margin-bottom:20px; */
         bottom:1px solid blue;
         margin:0 auto;
     }
