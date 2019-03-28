@@ -15,5 +15,6 @@
         height:100px;
         background-color: aqua;
         margin-bottom:20px;
+        bottom:1px solid red;
     }
 </style>
