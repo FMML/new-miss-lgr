@@ -6,6 +6,10 @@
     </div>
 </template>
 <style>
+    *{
+        margin:0;
+        padding:0;
+    }
     div{
         width:100px;
         height:100px;
